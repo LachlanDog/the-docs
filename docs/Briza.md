@@ -1,3 +1,9 @@
+---
+layout: default
+title: briza
+nav_order: 10
+---
+
 Race: Gnome
 
 Faction:
