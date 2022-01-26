@@ -1,3 +1,9 @@
+---
+layout: default
+title: People
+nav_order: 11
+---
+
 # List by name
 
 | Name                                                                    | Quick Description                       | Location                                                |
